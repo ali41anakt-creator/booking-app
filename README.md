@@ -46,7 +46,7 @@ cd booking-app
 docker-compose up --build
 ```
 
-Браузерде: http://localhost:3000
+Браузерде: http://localhost:5000
 
 ### 2. Қолмен іске қосу
 
